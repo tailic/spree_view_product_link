@@ -9,7 +9,7 @@ Add a view product link on the product edit page.
 Add spree_view_product_link to your Gemfile:
 
 ```ruby
-gem 'spree_view_product_link'
+gem 'spree_view_product_link', :github => "Hates/spree_view_product_link"
 ```
 
 Bundle your dependencies and run the installation generator:
