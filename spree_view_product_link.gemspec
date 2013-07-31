@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_view_product_link'
-  s.version     = '2.1.0.beta'
+  s.version     = '0.0.1'
   s.summary     = 'Admin view product link'
   s.description = 'Admin view product link'
   s.required_ruby_version = '>= 1.9.3'
