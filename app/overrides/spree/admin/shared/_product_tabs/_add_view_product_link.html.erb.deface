@@ -1,5 +1,5 @@
 <!-- insert_bottom '[data-hook="admin_product_tabs"]'
      sequence 1 -->
 <li>
-  <%= link_to_with_icon 'icon-external-link', Spree.t(:view_product), product_url(@product), target: "_blank" %>
+  <%= link_to_with_icon 'external-link', Spree.t(:view_product), product_url(@product), target: "_blank" %>
 </li>
